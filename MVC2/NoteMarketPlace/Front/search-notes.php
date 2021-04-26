@@ -236,7 +236,7 @@ session_start();
 
         $.ajax({
                 type : "GET", 
-                url : "AJAX/search-notes-ajax.php",
+                url : "AJAX/search-notes-Ajax.php",
                 data :
                 {
                     search : search_text,
